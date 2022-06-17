@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata:
   name: fresco-config
 data:
-  SERVER_URL:
+  <key> : <value>
